@@ -1,3 +1,11 @@
 {
-    
+    "ServicesItems" :[
+        {"id":"1","name": "Escova", "precio" : "$40", "duration": "40-60 Minutos"},
+        {"id":"2","name": "Corte Femenino", "precio" : "$35", "duration": "30-40 Minutos"},
+        {"id":"3","name": "Corte Masculino", "precio" : "$25", "duration": "30 Minutos"},
+        {"id":"4","name": "Progresivo", "precio" : "$120", "duration": "60 Minutos"},
+        {"id":"5","name": "Botox", "precio" : "$95", "duration": "60 Minutos"},
+        {"id":"6","name": "Mechas", "precio" : "$450", "duration": "3-5 Horas"}
+
+    ]
 }
