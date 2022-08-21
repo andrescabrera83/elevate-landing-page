@@ -1,5 +1,6 @@
 import './App.css';
 import SelectService from './components/SelectService';
+import Boleto from './components/Boleto';
 
 function App() {
   return (
@@ -7,10 +8,11 @@ function App() {
 
         
       
+        <Boleto></Boleto>
         <h1>Elevate</h1>  
         <p>- faça seu agendamento -</p>
 
-        <div className="container">
+        <div className="interaction">
 
         <SelectService></SelectService>
 

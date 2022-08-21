@@ -5,5 +5,33 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+
+}
+
+
+.Boleto{
+  width: 20%;
+  border: 2px solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.dropdown{
+  justify-self: center;
+}
+
+.container{
+  width: 80%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: grid;
+  grid-template-columns: 80% 20%;
+  grid-template-rows: 33% 33% 33%;
+
+}
+
+.data_tag{
+  grid-row: 3 / 3;
 }
 
