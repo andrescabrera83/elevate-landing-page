@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+
+.Boleto{
+  
+  margin-top: 2em;
+  border: 2px solid;
+  background-color: rgb(235, 64, 144);
+}
+
+h1{
+  color: white;
+  background-color: rgb(235, 64, 144);
+}
+
+.forma{
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+
+.react-datepicker-wrapper {
+  display: inline-block;
+  padding: 0;
+  border: 0;
+  width: 70%;
+}
+
+.calendario{
+  width: 100%;
+}
+
+
+
+
+
